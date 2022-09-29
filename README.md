@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>Welcome Feller</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-</head>
-<body>
 <h3 align="center">👋 Hey! Nice to see you.</h3>
 <p align="center">
   <a href="https://www.youtube.com/channel/UCY5LMxalio4WAR_NKNYwVLg/videos">YouTube</a> •
@@ -18,6 +10,3 @@
 💼 I live in <img src="https://cdn-icons-png.flaticon.com/512/323/323306.png" width="13"/> SG, Switzerland.</br>
 🎮 In my free time I like to play videogames and work on some projects.
 </p>
-
-</body>
-</html>
