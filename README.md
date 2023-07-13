@@ -1,7 +1,6 @@
 <h3 align="center">👋 Hey! Nice to see you.</h3>
 <p align="center">
   <a href="https://www.youtube.com/channel/UCY5LMxalio4WAR_NKNYwVLg/videos">YouTube</a> •
-  <a href="https://discord.gg/K4xanahVmF">Discord (Boost your PC/Notebook)</a> •
   <a href="https://t.me/ux_rock_local">Telegram</a>
 </p>
 ---
