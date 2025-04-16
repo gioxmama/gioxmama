@@ -1,6 +1,6 @@
 <h3 align="center">👋 Hey! Nice to see you.</h3>
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCY5LMxalio4WAR_NKNYwVLg/videos">YouTube</a> •
+  <a href="https://www.youtube.com/channel/UCY5LMxalio4WAR_NKNYwVLg/videos">YouTube</a>
 </p>
 ---
 <p>
